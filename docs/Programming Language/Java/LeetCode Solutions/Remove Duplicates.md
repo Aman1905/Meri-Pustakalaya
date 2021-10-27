@@ -1,4 +1,4 @@
-# 26
+# Q. 26
 ## Remove Duplicates from Sorted Array
 
 ### Code !
