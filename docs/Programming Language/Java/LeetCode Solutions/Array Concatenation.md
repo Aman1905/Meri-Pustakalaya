@@ -1,4 +1,4 @@
-# 1929. 
+# 1929
 ## Array Concatenation
 
 ### Code !

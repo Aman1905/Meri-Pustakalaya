@@ -1,6 +1,7 @@
-# 1. Two Sum
+# 1
+## Two Sum
 
-## Code !
+### Code !
 
         class Solution {
             public int[] twoSum(int[] nums, int target) {
@@ -17,7 +18,7 @@
         }
 
 
-## Explaination !
+### Explaination !
 
 - In Line 3, outer loop we have started which will iterate over the whole array starting from the pos 0 to the last number
 - In Line 4, inner loop is starting which will start from the pos i+1, i.e. whatever the position of ith variable is it will always start from the next number.
