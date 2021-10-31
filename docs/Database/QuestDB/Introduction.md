@@ -5,7 +5,6 @@ sidebar_position: 1
 
 # Introduction to QuestDB
 
-<br />
 
 ## What is QuestDB ?
 
