@@ -8,3 +8,5 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 For further learning about QuestDB refer to the official docs :-
 
 📑 https://questdb.io/docs/introduction/
+
+<GitHubIcon /> https://github.com/questdb/questdb
